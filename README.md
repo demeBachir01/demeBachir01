@@ -6,7 +6,7 @@
 <h1 align="center">👋 Bonjour, je suis Bachir DEME</h1>
 
 <h3 align="center">
-  Software Developer | Data & AI Enthusiast | Cloud & DevOps | Application Security
+  Software Developer | Data & AI Enthusiast | Application Security
 </h3>
 
 <p align="center">
