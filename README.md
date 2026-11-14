@@ -234,11 +234,6 @@ Ces dépôts sont des projets forkés, et ne sont donc pas présentés comme des
 ## 📈 Activité GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=demeBachir01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistiques GitHub de Bachir DEME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demeBachir01&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=demeBachir01&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
